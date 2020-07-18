@@ -3,3 +3,6 @@ This system is designed to efficiently manage all the reservation of rooms in a 
 to access and update. It will also keep a track of employee details, billing and housekeeping staff. 
 
 The Hotel Management system will also help in dealing with the financial transactions with the guests and stores all bill for later use.
+<p align=center>
+<img src="Relational Diagram.png">
+</p>
